@@ -5,6 +5,4 @@ To run it, follow the steps, write the following commands on the terminal:
 2)npm start
 3)node server.js
 
-then open the website on:
-http://localhost:4444/
 
